@@ -1,10 +1,17 @@
 # Changelog
 
-All notable changes to the `understand` skill are documented here.
+All notable changes to the skill are documented here.
 This project follows [Semantic Versioning](https://semver.org/) loosely:
 the version reflects how much the *behavior* of the skill changes.
 
 ## [Unreleased]
+
+### Changed
+
+- Rebuilt `understand` around concise, flexible response guardrails.
+- Added visual guidance and preserved agent ownership of work.
+- Updated Codex metadata and cross-agent installation instructions.
+- Removed the unused technique reference.
 
 ## [0.1.0] — 2026-06-02
 
