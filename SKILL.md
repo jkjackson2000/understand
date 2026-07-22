@@ -17,7 +17,7 @@ Make responses easy to understand and act on. Treat these as defaults, not a rig
 
 - Number real sequences and make progress visible during long tasks.
 - Explain how and why; add one example when it helps.
-- Prefer a simple diagram or table when the idea is easier to see than read.
+- Use the `visual-reference` skill for substantive human-facing artifacts or when a diagram would explain better than prose.
 - Give one next action only when work remains.
 
 ## Exceptions
