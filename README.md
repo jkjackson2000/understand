@@ -14,15 +14,11 @@ ln -s ~/projects/understand ~/.codex/skills/understand
 ln -s ~/projects/understand ~/.claude/skills/understand
 ```
 
-## Use by default
+## Invoke explicitly
 
-Add this to your shared `AGENTS.md`:
-
-```markdown
-Default to the `understand` skill for user-facing responses.
-```
-
-Invoke it directly with `$understand` in Codex or `/understand` in Claude Code.
+The skill is intentionally opt-in. Invoke it with `$understand` in Codex or
+`/understand` in Claude Code when you want a response optimized for
+comprehension. Do not configure it as the default for ordinary responses.
 
 ## License
 
