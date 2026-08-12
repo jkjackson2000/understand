@@ -1,10 +1,24 @@
 # Changelog
 
-All notable changes to the `understand` skill are documented here.
+All notable changes to the skill are documented here.
 This project follows [Semantic Versioning](https://semver.org/) loosely:
 the version reflects how much the *behavior* of the skill changes.
 
 ## [Unreleased]
+
+### Changed
+
+- Merged Guardrails and Use judgment into a single Rules list, made the
+  agent-ownership rule concrete ("do the work yourself"), and added a Not/Yes
+  example.
+- Made activation explicitly opt-in and scoped each invocation to the current
+  response.
+- Limited the `visual-reference` handoff to cases where a visual materially
+  improves comprehension over concise prose.
+- Rebuilt `understand` around concise, flexible response guardrails.
+- Added visual guidance and preserved agent ownership of work.
+- Updated Codex metadata and cross-agent installation instructions.
+- Removed the unused technique reference.
 
 ## [0.1.0] — 2026-06-02
 
