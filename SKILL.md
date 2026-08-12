@@ -1,6 +1,7 @@
 ---
 name: understand
 description: "Shape a response to be clear, actionable, and easy to understand without losing useful depth. Use only when the user explicitly invokes $understand or asks to use the understand skill."
+disable-model-invocation: true
 ---
 
 # Understand
