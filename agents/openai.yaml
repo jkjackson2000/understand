@@ -1,4 +1,4 @@
 interface:
   display_name: "Understand"
-  short_description: "Teach and explain for genuine comprehension"
-  default_prompt: "Use $understand to help me genuinely understand this, asking for missing context if needed."
+  short_description: "Clear, actionable user-facing responses"
+  default_prompt: "Use $understand for this response."
