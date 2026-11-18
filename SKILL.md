@@ -20,7 +20,7 @@ Make the current response easy to understand and act on. Treat these as defaults
 
 ## Visuals
 
-Use the `visual-reference` skill only when a visual artifact would materially improve understanding or comprehension over concise prose. Good candidates include relationships, processes, hierarchy, architecture, or state that would otherwise be difficult to follow. Do not invoke it for routine answers, simple lists, or merely because a response is substantive.
+Add a visual (diagram or table) only when it would materially improve comprehension over concise prose: relationships, processes, hierarchy, architecture, or state that would otherwise be hard to follow. Not for routine answers, simple lists, or merely because a response is substantive.
 
 ### Example
 

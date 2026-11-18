@@ -13,8 +13,8 @@ the version reflects how much the *behavior* of the skill changes.
   example.
 - Made activation explicitly opt-in and scoped each invocation to the current
   response.
-- Limited the `visual-reference` handoff to cases where a visual materially
-  improves comprehension over concise prose.
+- Dropped the `visual-reference` handoff (that skill is not installed); add a
+  visual only when it materially improves comprehension over concise prose.
 - Rebuilt `understand` around concise, flexible response guardrails.
 - Added visual guidance and preserved agent ownership of work.
 - Updated Codex metadata and cross-agent installation instructions.
